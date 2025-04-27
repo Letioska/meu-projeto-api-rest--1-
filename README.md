@@ -2,7 +2,7 @@
 
 ##Diagrama de Classes
 
-'''mermaid
+```mermaid
 
 classDiagram
     class User {
@@ -36,4 +36,4 @@ classDiagram
     User --> Feature
     User --> News
 
-    '''
+    ```
